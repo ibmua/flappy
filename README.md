@@ -1,3 +1,6 @@
+# Update
+[Look here for the training code](https://github.com/ibmua/immortal-flappy)
+
 #	FIRST FLAWLESS - IMMORTAL - PERFECT FLAPPY BIRD BOT - How to Train Your Pigeon
 ![](flappy.png)
 
