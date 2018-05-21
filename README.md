@@ -12,6 +12,4 @@ I checked my bot over millions of pipes - ran for 30 hours on a GPU - and it did
 3.	`sudo pip install numpy keras scikit-image pygame pydot graphviz` or, maybe, `pip install numpy keras scikit-image pygame pydot graphviz`
 5.	`git clone https://github.com/ibmua/flappy.git`
 
-I'll post the solution later.
-
 License: public domain.
